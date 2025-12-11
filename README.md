@@ -1,2 +1,2 @@
 # CPAIOR-supplementary
-This repository contains the supplementary appendix for the associated paper. It provides additional details referenced in the main paper.
+This repository hosts the supplementary appendix for the paper *"On the Misalignment of Non-Autoregressive GNNs in Neural Combinatorial Optimization"*.  
